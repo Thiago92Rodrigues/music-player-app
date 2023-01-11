@@ -18,7 +18,7 @@
     "google-protobuf": "^3.17.3",
     "grpc": "^1.24.10",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.95.6",
+    "knex": "^2.4.0",
     "pg": "^8.5.1",
     "uuidv4": "^6.2.10",
     "winston": "^3.3.3"
